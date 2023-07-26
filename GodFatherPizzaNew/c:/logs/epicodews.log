@@ -1,0 +1,190 @@
+"2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Starting GodFatherPizzaApplication using Java 17.0.7 on MinidiBenedetto.station with PID 2358 (/Users/benedettodestefano/Documents/GitHub/IoC-DependencyInjection/GodFatherPizzaNew/target/classes started by benedettodestefano in /Users/benedettodestefano/Documents/GitHub/IoC-DependencyInjection/GodFatherPizzaNew)
+""2023-07-26 [main] DEBUG i.e.b.g.GodFatherPizzaApplication - Running with Spring Boot v2.4.5, Spring v5.3.6
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - No active profile set, falling back to default profiles: default
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Started GodFatherPizzaApplication in 1.333 seconds (JVM running for 1.807)
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - ****** ORDINE ******
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero ordine: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero coperti: 3
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero Tavolo: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Stato ordine: IN_CORSO
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Quantità: 3
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Lemonade - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Margherita (tomato, cheese) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Totale €: 51.45
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Starting GodFatherPizzaApplication using Java 17.0.7 on MinidiBenedetto.station with PID 3128 (/Users/benedettodestefano/Documents/GitHub/IoC-DependencyInjection/GodFatherPizzaNew/target/classes started by benedettodestefano in /Users/benedettodestefano/Documents/GitHub/IoC-DependencyInjection/GodFatherPizzaNew)
+""2023-07-26 [main] DEBUG i.e.b.g.GodFatherPizzaApplication - Running with Spring Boot v2.4.5, Spring v5.3.6
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - No active profile set, falling back to default profiles: default
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Started GodFatherPizzaApplication in 1.464 seconds (JVM running for 1.922)
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - ****** ORDINE ******
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero ordine: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero coperti: 3
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero Tavolo: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Stato ordine: IN_CORSO
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Quantità: 3
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Lemonade - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Margherita (tomato, cheese) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Totale €: 51.45
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Starting GodFatherPizzaApplication using Java 17.0.7 on MinidiBenedetto.station with PID 5283 (/Users/benedettodestefano/Documents/GitHub/IoC-DependencyInjection/GodFatherPizzaNew/target/classes started by benedettodestefano in /Users/benedettodestefano/Documents/GitHub/IoC-DependencyInjection/GodFatherPizzaNew)
+""2023-07-26 [main] DEBUG i.e.b.g.GodFatherPizzaApplication - Running with Spring Boot v2.4.5, Spring v5.3.6
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - No active profile set, falling back to default profiles: default
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Started GodFatherPizzaApplication in 1.357 seconds (JVM running for 1.794)
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - ****** ORDINE ******
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero ordine: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero coperti: 3
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero Tavolo: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Stato ordine: IN_CORSO
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Quantità: 3
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Lemonade - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Margherita (tomato, cheese) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Totale €: 51.45
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Starting GodFatherPizzaApplication using Java 17.0.7 on MinidiBenedetto.station with PID 5431 (/Users/benedettodestefano/Documents/GitHub/IoC-DependencyInjection/GodFatherPizzaNew/target/classes started by benedettodestefano in /Users/benedettodestefano/Documents/GitHub/IoC-DependencyInjection/GodFatherPizzaNew)
+""2023-07-26 [main] DEBUG i.e.b.g.GodFatherPizzaApplication - Running with Spring Boot v2.4.5, Spring v5.3.6
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - No active profile set, falling back to default profiles: default
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Started GodFatherPizzaApplication in 1.349 seconds (JVM running for 1.805)
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Starting GodFatherPizzaApplication using Java 17.0.7 on MinidiBenedetto.station with PID 5825 (/Users/benedettodestefano/Documents/GitHub/IoC-DependencyInjection/GodFatherPizzaNew/target/classes started by benedettodestefano in /Users/benedettodestefano/Documents/GitHub/IoC-DependencyInjection/GodFatherPizzaNew)
+""2023-07-26 [main] DEBUG i.e.b.g.GodFatherPizzaApplication - Running with Spring Boot v2.4.5, Spring v5.3.6
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - No active profile set, falling back to default profiles: default
+""2023-07-26 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'menuRunner' defined in file [/Users/benedettodestefano/Documents/GitHub/IoC-DependencyInjection/GodFatherPizzaNew/target/classes/it/epicode/be/godfather/MenuRunner.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [it.epicode.be.godfather.MenuRunner]: Constructor threw exception; nested exception is java.lang.ClassCastException: class it.epicode.be.godfather.model.PizzaBuild cannot be cast to class it.epicode.be.godfather.model.Pizza (it.epicode.be.godfather.model.PizzaBuild and it.epicode.be.godfather.model.Pizza are in unnamed module of loader 'app')
+""2023-07-26 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+""2023-07-26 [main] ERROR o.s.boot.SpringApplication - Application run failed
+"org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'menuRunner' defined in file [/Users/benedettodestefano/Documents/GitHub/IoC-DependencyInjection/GodFatherPizzaNew/target/classes/it/epicode/be/godfather/MenuRunner.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [it.epicode.be.godfather.MenuRunner]: Constructor threw exception; nested exception is java.lang.ClassCastException: class it.epicode.be.godfather.model.PizzaBuild cannot be cast to class it.epicode.be.godfather.model.Pizza (it.epicode.be.godfather.model.PizzaBuild and it.epicode.be.godfather.model.Pizza are in unnamed module of loader 'app')
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1316)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1214)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:782)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:774)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:339)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1340)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1329)
+	at it.epicode.be.godfather.GodFatherPizzaApplication.main(GodFatherPizzaApplication.java:10)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [it.epicode.be.godfather.MenuRunner]: Constructor threw exception; nested exception is java.lang.ClassCastException: class it.epicode.be.godfather.model.PizzaBuild cannot be cast to class it.epicode.be.godfather.model.Pizza (it.epicode.be.godfather.model.PizzaBuild and it.epicode.be.godfather.model.Pizza are in unnamed module of loader 'app')
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:225)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1308)
+	... 17 common frames omitted
+Caused by: java.lang.ClassCastException: class it.epicode.be.godfather.model.PizzaBuild cannot be cast to class it.epicode.be.godfather.model.Pizza (it.epicode.be.godfather.model.PizzaBuild and it.epicode.be.godfather.model.Pizza are in unnamed module of loader 'app')
+	at it.epicode.be.godfather.MenuRunner.<init>(MenuRunner.java:105)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:212)
+	... 19 common frames omitted
+"2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Starting GodFatherPizzaApplication using Java 17.0.7 on MinidiBenedetto.station with PID 5828 (/Users/benedettodestefano/Documents/GitHub/IoC-DependencyInjection/GodFatherPizzaNew/target/classes started by benedettodestefano in /Users/benedettodestefano/Documents/GitHub/IoC-DependencyInjection/GodFatherPizzaNew)
+""2023-07-26 [main] DEBUG i.e.b.g.GodFatherPizzaApplication - Running with Spring Boot v2.4.5, Spring v5.3.6
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - No active profile set, falling back to default profiles: default
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Started GodFatherPizzaApplication in 1.348 seconds (JVM running for 1.807)
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - ****** ORDINE ******
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero ordine: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero coperti: 3
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero Tavolo: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Stato ordine: IN_CORSO
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Quantità: 3
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Lemonade - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Margherita (tomato, cheese) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Totale €: 51.45
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Starting GodFatherPizzaApplication using Java 17.0.7 on MinidiBenedetto.station with PID 5872 (/Users/benedettodestefano/Documents/GitHub/IoC-DependencyInjection/GodFatherPizzaNew/target/classes started by benedettodestefano in /Users/benedettodestefano/Documents/GitHub/IoC-DependencyInjection/GodFatherPizzaNew)
+""2023-07-26 [main] DEBUG i.e.b.g.GodFatherPizzaApplication - Running with Spring Boot v2.4.5, Spring v5.3.6
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - No active profile set, falling back to default profiles: default
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Started GodFatherPizzaApplication in 1.336 seconds (JVM running for 1.782)
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - ****** ORDINE ******
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero ordine: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero coperti: 3
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero Tavolo: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Stato ordine: IN_CORSO
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Quantità: 3
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Lemonade - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Margherita (tomato, cheese) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Totale €: 51.45
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Starting GodFatherPizzaApplication using Java 17.0.7 on MinidiBenedetto.station with PID 5879 (/Users/benedettodestefano/Documents/GitHub/IoC-DependencyInjection/GodFatherPizzaNew/target/classes started by benedettodestefano in /Users/benedettodestefano/Documents/GitHub/IoC-DependencyInjection/GodFatherPizzaNew)
+""2023-07-26 [main] DEBUG i.e.b.g.GodFatherPizzaApplication - Running with Spring Boot v2.4.5, Spring v5.3.6
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - No active profile set, falling back to default profiles: default
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Started GodFatherPizzaApplication in 1.261 seconds (JVM running for 1.708)
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - ****** ORDINE ******
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero ordine: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero coperti: 3
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero Tavolo: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Stato ordine: IN_CORSO
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Quantità: 3
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Lemonade - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Margherita (tomato, cheese) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Totale €: 51.45
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Starting GodFatherPizzaApplication using Java 17.0.7 on MinidiBenedetto.station with PID 5882 (/Users/benedettodestefano/Documents/GitHub/IoC-DependencyInjection/GodFatherPizzaNew/target/classes started by benedettodestefano in /Users/benedettodestefano/Documents/GitHub/IoC-DependencyInjection/GodFatherPizzaNew)
+""2023-07-26 [main] DEBUG i.e.b.g.GodFatherPizzaApplication - Running with Spring Boot v2.4.5, Spring v5.3.6
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - No active profile set, falling back to default profiles: default
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Started GodFatherPizzaApplication in 1.254 seconds (JVM running for 1.673)
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - ****** ORDINE ******
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero ordine: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero coperti: 3
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero Tavolo: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Stato ordine: IN_CORSO
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Quantità: 3
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Lemonade - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Margherita (tomato, cheese) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Totale €: 51.45
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Starting GodFatherPizzaApplication using Java 17.0.7 on MinidiBenedetto.station with PID 5885 (/Users/benedettodestefano/Documents/GitHub/IoC-DependencyInjection/GodFatherPizzaNew/target/classes started by benedettodestefano in /Users/benedettodestefano/Documents/GitHub/IoC-DependencyInjection/GodFatherPizzaNew)
+""2023-07-26 [main] DEBUG i.e.b.g.GodFatherPizzaApplication - Running with Spring Boot v2.4.5, Spring v5.3.6
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - No active profile set, falling back to default profiles: default
+""2023-07-26 [main] INFO  i.e.b.g.GodFatherPizzaApplication - Started GodFatherPizzaApplication in 1.207 seconds (JVM running for 1.631)
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - ****** ORDINE ******
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero ordine: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero coperti: 3
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Numero Tavolo: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Stato ordine: IN_CORSO
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Quantità: 3
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Hawaiian (tomato, cheese, ham, pineapple) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Salami (tomato, cheese, salami) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Lemonade - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Pizza Margherita (tomato, cheese) - Cheese - Ham - Quantità: 1
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - 
+""2023-07-26 [main] INFO  it.epicode.be.godfather.MenuRunner - Totale €: 51.45
+"

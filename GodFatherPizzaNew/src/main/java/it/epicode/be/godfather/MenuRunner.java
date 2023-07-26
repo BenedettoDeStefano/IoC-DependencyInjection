@@ -12,6 +12,7 @@ import it.epicode.be.godfather.model.Menu;
 import it.epicode.be.godfather.model.MenuItem;
 import it.epicode.be.godfather.model.Ordine;
 import it.epicode.be.godfather.model.Pizza;
+import it.epicode.be.godfather.model.PizzaBuild;
 import it.epicode.be.godfather.model.PizzaHawaiian;
 import it.epicode.be.godfather.model.PizzaMargherita;
 import it.epicode.be.godfather.model.PizzaSalami;
@@ -24,6 +25,7 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 public class MenuRunner implements CommandLineRunner {
 
+
 	@Autowired
 	private Menu menu;
 
@@ -35,6 +37,10 @@ public class MenuRunner implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
+
+		PizzaBuild pizzaCostruita = PizzaBuild.builder().nome("Pizza").prezzo(5.99).calorie(800.0).build();
+
+		System.err.println(pizzaCostruita);
 
 		Tavolo tavolo = new Tavolo(1, 5, true);
 
@@ -98,5 +104,8 @@ public class MenuRunner implements CommandLineRunner {
 		}
 		log.info("");
 		log.info("Totale €: {}", ordine.getTotale());
+
 	}
+
+
 }
